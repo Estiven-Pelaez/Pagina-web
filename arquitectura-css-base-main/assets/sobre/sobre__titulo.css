@@ -1,0 +1,22 @@
+.sobre__titulo {
+    text-align: center;
+    color: #DA2B1F;
+    font-family: pacifico, cursive;
+    width: 100%;
+    
+
+}
+
+/*responsive*/ 
+
+@media screen and (min-widt: 0) {
+    .sobre__titulo {
+        font-size: 2rem;
+    }
+}
+
+@media screen and (min-widt: 768) {
+    .sobre__titulo {
+        font-size: 3.188rem;
+    }
+}
